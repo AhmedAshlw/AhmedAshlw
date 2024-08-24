@@ -16,6 +16,7 @@ I'm a passionate Full Stack developer from Bahrain
 
 - 🖥️ My projects:
   - [Events Management System](https://event-management-system-ashlw-87142d6f2532.herokuapp.com/)
+  - [Restaurants Finder and Booking System](https://resbooking.vercel.app/) (Group Work)
 
 ### Skills
 
