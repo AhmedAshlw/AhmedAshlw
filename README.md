@@ -6,11 +6,11 @@ I'm a passionate Full Stack developer from Bahrain
 
 **About me**
 
-- 💼 Senior Computer Science Student at [University of Bahrain](https://www.uob.edu.bh/)
+- 💼 Computer Science Gradguate from [University of Bahrain](https://www.uob.edu.bh/)
 
 - ✉️ You can contact me at [AhmedIT5216@gmail.com](AhmedIT5216@gmail.com)
 
-- 🧠 I'm learning Python and React
+- 🧠 I'm learning Laravel and React
 
 - 🤝 I'm open to collaborating on Projects
 
@@ -26,6 +26,9 @@ I'm a passionate Full Stack developer from Bahrain
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" width="36" height="36"/>
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36"></a>
 <a href="https://ionic.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fionicframeworkcom%2F66cfdbef-e59d-463a-8e24-12cb233e9d97_ionic%2Blogo%2Bblue.png&w=128&q=75" target="_blank" rel="noreferrer"><img src="https://ionic.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fionicframeworkcom%2F66cfdbef-e59d-463a-8e24-12cb233e9d97_ionic%2Blogo%2Bblue.png&w=128&q=75" alt="Ionic" width="36" height="36"></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" width="36" height="36"></a>
